@@ -1,6 +1,6 @@
 # http://usingpython.com/pygame-tilemaps/
 # http://pygame.org/docs/tut/newbieguide.html
-import sys
+import sys,os
 import random
 import pygame
 

@@ -1,1 +1,0 @@
-export SC2PATH='/Users/yvanscher/StarCraft II/'
